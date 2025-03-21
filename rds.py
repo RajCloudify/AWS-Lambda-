@@ -1,4 +1,4 @@
-# To create a rds 
+# To create a RDS. 
 
 import boto3
 
