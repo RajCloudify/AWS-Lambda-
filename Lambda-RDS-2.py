@@ -11,16 +11,16 @@ table_name = "employees"    # Corrected Table Name
 
 # Sample Employee Data
 employees = [
-    (1, "Alice Johnson", "Software Engineer", "alice.johnson@example.com"),
-    (2, "Bob Smith", "Data Scientist", "bob.smith@example.com"),
-    (3, "Charlie Brown", "DevOps Engineer", "charlie.brown@example.com"),
-    (4, "Dana White", "Project Manager", "dana.white@example.com"),
-    (5, "Eva Green", "QA Engineer", "eva.green@example.com"),
-    (6, "Frank Miller", "Cloud Architect", "frank.miller@example.com"),
-    (7, "Grace Lee", "Security Analyst", "grace.lee@example.com"),
-    (8, "Henry Ford", "Business Analyst", "henry.ford@example.com"),
-    (9, "Isla Fisher", "Database Administrator", "isla.fisher@example.com"),
-    (10, "Jack Black", "Frontend Developer", "jack.black@example.com")
+    (1, "Alice Johnson", "Software Engineer", "alice.johnson@gmail.com"),
+    (2, "Bob Smith", "Data Scientist", "bob.smith@gmail.com"),
+    (3, "Charlie Brown", "DevOps Engineer", "charlie.brown@gmail.com"),
+    (4, "Dana White", "Project Manager", "dana.white@gmail.com"),
+    (5, "Eva Green", "QA Engineer", "eva.green@gmail.com"),
+    (6, "Frank Miller", "Cloud Architect", "frank.miller@gmail.com"),
+    (7, "Grace Lee", "Security Analyst", "grace.lee@gmail.com"),
+    (8, "Henry Ford", "Business Analyst", "henry.ford@gmail.com"),
+    (9, "Isla Fisher", "Database Administrator", "isla.fisher@gmail.com"),
+    (10, "Jack Black", "Frontend Developer", "jack.black@gmail.com")
 ]
 
 # Establish a database connection
