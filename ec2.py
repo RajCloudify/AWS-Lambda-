@@ -1,4 +1,4 @@
-#Launching instance via lambda function.
+#Launching instance via Lambda Function.
 
 import json
 import boto3
