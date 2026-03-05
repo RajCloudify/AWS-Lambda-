@@ -78,7 +78,7 @@ def lambda_handler(event, context):
         return {
             'statusCode': 400,
             'body': f"Duplicate entry error: {e}"
-        }
+        } 
 
     except Exception as e:
         print("Error:", str(e))
