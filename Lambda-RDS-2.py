@@ -2,7 +2,7 @@ import os
 import pymysql
 import json
 
-# Database settings from environment variables
+# Database settings from environment variables 
 db_host = os.environ['DB_HOST']
 db_user = os.environ['DB_USER']
 db_pass = os.environ['DB_PASS']
